@@ -1,0 +1,25 @@
+{
+  "enabled": true,
+  "rangeStrategy": "pin",
+  "prCreation": "immediate",
+  "automerge": true,
+  "automergeType": "branch",
+  "minor": {
+    "automerge": true
+  },
+  "patch": {
+    "automerge": true
+  },
+  "pin": {
+    "automerge": true
+  },
+  "lockFileMaintenance": {
+    "automerge": true
+  },
+  "ignoreTests": false,
+  "respectLatest": true,
+  "vulnerabilityAlerts": {
+    "enabled": true
+  },
+  "dependencyDashboard": false
+}
